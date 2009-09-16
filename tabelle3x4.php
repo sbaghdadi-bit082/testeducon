@@ -18,5 +18,6 @@ for($j = 0; $j < 3; $j ++) {
 //showAll($matrix);
 //Kommentar für Github Test
 //Kommentar für Github Test2
+//Kommentar für Github Test3
 showAsTable($matrix);
 ?>
