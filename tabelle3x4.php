@@ -17,5 +17,6 @@ for($j = 0; $j < 3; $j ++) {
 //echo $summe;
 //showAll($matrix);
 //Kommentar für Github Test
+//Kommentar für Github Test2
 showAsTable($matrix);
 ?>
